@@ -1,0 +1,20 @@
+.diy_investor_stock_portfolio_table {
+	width: 100%;
+	border: none;
+	border-collapse: collapse;
+}
+
+.diy_investor_stock_portfolio_table * {
+	border: none;
+}
+
+.diy_investor_stock_portfolio_table td {
+	padding-bottom: 3px;
+}
+
+.diy_investor_stock_portfolio_error {
+	border: none;
+}
+.diy_investor_right {
+	text-align:right;
+}
